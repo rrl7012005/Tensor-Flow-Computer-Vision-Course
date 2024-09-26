@@ -19,8 +19,8 @@ Concepts Covered:
 - Transfer Learning with various Nets
 - Use of TFRecords
 - Visualization of CNNs using GradCam and other methods
-- Model Deployment with ONNX
-- Use of Tensorflow Lite, FastAPI, Deployment to the Cloud
+- Model Optimization with ONNX and Tensorflow Lite
+- Model Deployment with FastAPI
 - Object Detection with YOLO
 - Digit Generation with Visual Autoencoders
 - Face Generation with Generative Adversarial Networks
