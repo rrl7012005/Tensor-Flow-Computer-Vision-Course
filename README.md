@@ -21,6 +21,6 @@ Concepts Covered:
 - Visualization of CNNs using GradCam and other methods
 - Model Optimization with ONNX and Tensorflow Lite
 - Model Deployment with FastAPI
-- Object Detection with YOLO
+- Implementation of Object Detection with YOLO
 - Digit Generation with Visual Autoencoders
 - Face Generation with Generative Adversarial Networks
